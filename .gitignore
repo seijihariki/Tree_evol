@@ -33,8 +33,6 @@
 *.out
 *.app
 
-.gitignore
 .idea/vcs.xml
 .idea/workspace.xml
 cmake-build-debug/
-res/
